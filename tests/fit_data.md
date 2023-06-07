@@ -5,14 +5,14 @@
 -- Bayesian information criterion  
 -- Kolmogorov–Smirnov test  
 -- Cramér–von Mises criterion  
--- Anderson–Darling test. 
--- Berk-Jones tests[1][2]. 
--- Shapiro–Wilk test. 
--- Chi-squared test. 
--- Akaike information criterion. 
+-- Anderson–Darling test  
+-- Berk-Jones tests  
+-- Shapiro–Wilk test  
+-- Chi-squared test  
+-- Akaike information criterion  
 -- Hosmer–Lemeshow test  
 -- Kuiper's test  
--- Kernelized Stein discrepancy[3][4]. 
--- Zhang's ZK, ZC and ZA tests[5]  
+-- Kernelized Stein discrepancy  
+-- Zhang's ZK, ZC and ZA tests  
 -- Moran test  
 -- Density Based Empirical Likelihood Ratio tests[6]. 
