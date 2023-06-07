@@ -2,8 +2,8 @@
 - Fit of distributions
 - In assessing whether a given distribution is suited to a data-set, the following tests and their underlying measures of fit can be used:
 
--- Bayesian information criterion.
--- Kolmogorov–Smirnov test. 
+-- Bayesian information criterion  
+-- Kolmogorov–Smirnov test  
 -- Cramér–von Mises criterion  
 -- Anderson–Darling test. 
 -- Berk-Jones tests[1][2]. 
