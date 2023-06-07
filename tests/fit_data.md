@@ -10,9 +10,9 @@
 -- Shapiro–Wilk test. 
 -- Chi-squared test. 
 -- Akaike information criterion. 
--- Hosmer–Lemeshow test. 
--- Kuiper's test. 
+-- Hosmer–Lemeshow test  
+-- Kuiper's test  
 -- Kernelized Stein discrepancy[3][4]. 
 -- Zhang's ZK, ZC and ZA tests[5]  
--- Moran test. 
+-- Moran test  
 -- Density Based Empirical Likelihood Ratio tests[6]. 
